@@ -1,0 +1,70 @@
+{
+    "bike": [
+        {
+            "id": "1",
+            "bkBrdcmpy": "hero",
+            "bkModel": "pleasure",
+            "bkYearofmauf":"2017",
+            "bkimg":"https://www.carblogindia.com/wp-content/uploads/2017/04/2017-hero-pleasure-front-angle.jpg",
+            "bkDriven":"20000",
+            "bkRngno":"GJO3KR4521",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"45555",
+            "bkOwnerno":"9998026021",
+            "bkOwnereml":"vedantgosai007@gmail.com"
+        },
+        {
+            "id": "2",
+            "bkBrdcmpy": "yamaha",
+            "bkModel": "fz-s",
+            "bkYearofmauf":"2013",
+            "bkimg":"https://purepng.com/public/uploads/large/purepng.com-yamaha-fz-s-fi-whitemotorcyclemotorbikebikevehiclebmwyamaha-981525169038f20jr.png",
+            "bkDriven":"30000",
+            "bkRngno":"GJ03FG3597",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"45000",
+            "bkOwnerno":"9099892773",
+            "bkOwnereml":"gosaiarjungiri@gmail.com"
+        },
+        {
+            "id": "3",
+            "bkBrdcmpy": "honda",
+            "bkModel": "activa",
+            "bkYearofmauf":"2010",
+            "bkimg":"https://images.carandbike.com/bike-images/large/honda/activa-6g/honda-activa-6g.jpg?v=11",
+            "bkDriven":"45000",
+            "bkRngno":"GJ03AB9921",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"25000",
+            "bkOwnerno":"8200330509",
+            "bkOwnereml":"vedantgirigosai@gmail.com"
+        },
+        {
+            "id": "4",
+            "bkBrdcmpy": "hero",
+            "bkModel": "pleasure",
+            "bkYearofmauf":"2015",
+            "bkimg":"https://images.carandbike.com/bike-images/colors/hero/pleasure/hero-pleasure-matte-grey-yellow.png?v=",
+            "bkDriven":"17000",
+            "bkRngno":"GJ03EJ3050",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"35000",
+            "bkOwnerno":"9426225030",
+            "bkOwnereml":"myfakemail@gmail.com"
+        },
+        {
+            "id": "5",
+            "bkBrdcmpy": "hero",
+            "bkModel": "pleasure",
+            "bkYearofmauf":"2018",
+            "bkimg":"https://www.heromotocorp.com/en-mm/uploads/bike/bike_color_pic/20180730170250-color-main-76.png",
+            "bkDriven":"2500",
+            "bkRngno":"GJ03KL3636",
+            "bkDetail":"complete condition,full insurance,company services.",
+            "bkPrice":"50000",
+            "bkOwnerno":"9998026021",
+            "bkOwnereml":"vedumail@gmail.com"
+        }
+       
+    ]
+}
